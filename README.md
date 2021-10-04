@@ -1,4 +1,4 @@
-## Oi! Me chamo Luciano Ricardo 👋
+## Olá Mundo! Me chamo Luciano Ricardo 👋
 
 - 🌱 Estudando Engenharia Mecatrônica
 - 💻 Aprendendo a programar em Java
