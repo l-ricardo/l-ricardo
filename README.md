@@ -1,4 +1,4 @@
-## Olá Mundo! Me chamo Luciano Ricardo 👋
+## Olá Mundo! Eu sou Ricardo 👋
 
 - 🌱 Estudando Engenharia na UnB
 - 💻 Aprendendo a programar em Java e Python
