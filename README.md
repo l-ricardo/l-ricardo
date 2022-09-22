@@ -8,11 +8,11 @@
 <div align="center">  
   
   <a href="https://github.com/l-ricardo">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=l-ricardo&theme=radical&bg_color=000000&card_width=450&line_height=28&include_all_commits=true&count_private=true&show_icons=true" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=l-ricardo&theme=radical&bg_color=000000&card_width=40&line_height=24&include_all_commits=true&count_private=true&show_icons=true" />
   </a>
   
   <a href="https://github.com/l-ricardo">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-ricardo&theme=radical&bg_color=000000&card_width=40&layout=compact" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-ricardo&theme=radical&bg_color=000000&card_width=10&layout=compact" />
   </a>
   
 </div>
