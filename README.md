@@ -1,8 +1,9 @@
 ## Olá Mundo! Eu sou Ricardo 👋
 
-- 🌱 Estudando Engenharia na UnB
-- 💻 Aprendendo Javascript
-- 🤓 Pronomes: ele/dele
+- 🌱 Estudando Engenharia de Software na UnB
+- 💚 Trainee na Orc'estra Gamificação
+- 🎓 Aprendendo Javascript
+- 🤠 Pronomes: ele/dele
 - 🔗 Contato:  <a href = "mailto:lrsj2003@gmail.com"><img  align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a href = "https://www.linkedin.com/in/l-ricardo/"><img  align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div align="center">  
