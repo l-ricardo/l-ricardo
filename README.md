@@ -1,7 +1,6 @@
 ## Olá Mundo! Eu sou Ricardo 👋
 
 - 🌱 Estudando Engenharia de Software na UnB
-- 💚 Membro da [Orc'estra Gamificação](https://orcestra.com.br/)
 - 🤠 Pronomes: ele/dele
 - 🔗 Contato:  <a href = "mailto:lrsj2003@gmail.com"><img  align="center" src="https://img.shields.io/badge/Gmail-8e41e7?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a href = "https://www.linkedin.com/in/l-ricardo/"><img  align="center" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
